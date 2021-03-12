@@ -1,9 +1,10 @@
 # @Time    : 11/03/2021 12:30
 # @Author  : Rosangela Kelwattes
 # @Email   : l00162027@student.lyit.ie
-import requests
 import json
 from datetime import timedelta, date
+
+import requests
 
 API_TOKEN = "2985a18dde12b2570542c0fd02b6a244643db22245b5c1dc8cd2dcdb9cab543f"
 API_KEY = "2aba875333fd26536365c15bf50f02e6"
@@ -164,7 +165,7 @@ class Endpoints:
         return response
 
     @classmethod
-    def updateItem(cls, boardName, checkListItemName,isComplete):
+    def updateItem(cls, boardName, checkListItemName, isComplete):
         # Search the board for the named list item, eg “Key task 1”,
         # and update the Checklist item using the isComplete parameter.
         response = cls.getUser()
@@ -208,7 +209,7 @@ class Endpoints:
         doingList = response.json()[1]['id']
         doneList = response.json()[2]['id']
 
-        if numberOfCompletedCheckItems  > 0 and numberOfCompletedCheckItems < totalNumberOfCheckItems:
+        if numberOfCompletedCheckItems > 0 and numberOfCompletedCheckItems < totalNumberOfCheckItems:
             cls.moveCardToNewList(idCard, doingList)
         elif numberOfCompletedCheckItems == totalNumberOfCheckItems:
             cls.moveCardToNewList(idCard, doneList)
@@ -238,7 +239,7 @@ class Endpoints:
 
     @classmethod
     def getCompletedCheckListItems(cls, idCard):
-        
+
         completedCheckListItems_url = base_url + "/1/cards/%s/checkItemStates" % idCard
         query = {
             'key': API_KEY,
@@ -309,6 +310,7 @@ class Endpoints:
             data=payload)
 
         return response
+
     @classmethod
     def getCard(cls, idCard):
 
