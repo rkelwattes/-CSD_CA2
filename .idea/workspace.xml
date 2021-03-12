@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80166a50-b2f8-4ba1-a35f-48a300257697" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pQB2gzxWvXh3IlxenEpPSoTokX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Trello">
+    <configuration name="Trello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSD_CA2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task3/Trello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="addToDoItems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSD_CA2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task3/addToDoItems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getUserInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSD_CA2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task3/getUserInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="updateItem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSD_CA2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task3/updateItem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Trello" />
+        <item itemvalue="Python.updateItem" />
+        <item itemvalue="Python.addToDoItems" />
+        <item itemvalue="Python.getUserInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80166a50-b2f8-4ba1-a35f-48a300257697" name="Default Changelist" comment="" />
+      <created>1615105229489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615105229489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1122" height="220" key="GridCell.Tab.0.bottom" timestamp="1615562239033">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="206" key="GridCell.Tab.0.bottom/0.25.1280.727@0.25.1280.727" timestamp="1615331646637" />
+    <state width="1122" height="220" key="GridCell.Tab.0.bottom/0.25.1280.728@0.25.1280.728" timestamp="1615562239033" />
+    <state width="1243" height="90" key="GridCell.Tab.0.bottom/0.25.1280.729@0.25.1280.729" timestamp="1615560764224" />
+    <state width="1243" height="210" key="GridCell.Tab.0.bottom/0.25.1280.730@0.25.1280.730" timestamp="1615500782790" />
+    <state width="1122" height="121" key="GridCell.Tab.0.bottom/0.25.1280.731@0.25.1280.731" timestamp="1615214888896" />
+    <state width="1122" height="220" key="GridCell.Tab.0.center" timestamp="1615562239032">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="206" key="GridCell.Tab.0.center/0.25.1280.727@0.25.1280.727" timestamp="1615331646633" />
+    <state width="1122" height="220" key="GridCell.Tab.0.center/0.25.1280.728@0.25.1280.728" timestamp="1615562239032" />
+    <state width="1243" height="90" key="GridCell.Tab.0.center/0.25.1280.729@0.25.1280.729" timestamp="1615560764223" />
+    <state width="1243" height="210" key="GridCell.Tab.0.center/0.25.1280.730@0.25.1280.730" timestamp="1615500782789" />
+    <state width="1122" height="121" key="GridCell.Tab.0.center/0.25.1280.731@0.25.1280.731" timestamp="1615214888894" />
+    <state width="1122" height="220" key="GridCell.Tab.0.left" timestamp="1615562239030">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="206" key="GridCell.Tab.0.left/0.25.1280.727@0.25.1280.727" timestamp="1615331646631" />
+    <state width="1122" height="220" key="GridCell.Tab.0.left/0.25.1280.728@0.25.1280.728" timestamp="1615562239030" />
+    <state width="1243" height="90" key="GridCell.Tab.0.left/0.25.1280.729@0.25.1280.729" timestamp="1615560764222" />
+    <state width="1243" height="210" key="GridCell.Tab.0.left/0.25.1280.730@0.25.1280.730" timestamp="1615500782788" />
+    <state width="1122" height="121" key="GridCell.Tab.0.left/0.25.1280.731@0.25.1280.731" timestamp="1615214888893" />
+    <state width="1122" height="220" key="GridCell.Tab.0.right" timestamp="1615562239032">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="206" key="GridCell.Tab.0.right/0.25.1280.727@0.25.1280.727" timestamp="1615331646636" />
+    <state width="1122" height="220" key="GridCell.Tab.0.right/0.25.1280.728@0.25.1280.728" timestamp="1615562239032" />
+    <state width="1243" height="90" key="GridCell.Tab.0.right/0.25.1280.729@0.25.1280.729" timestamp="1615560764224" />
+    <state width="1243" height="210" key="GridCell.Tab.0.right/0.25.1280.730@0.25.1280.730" timestamp="1615500782789" />
+    <state width="1122" height="121" key="GridCell.Tab.0.right/0.25.1280.731@0.25.1280.731" timestamp="1615214888895" />
+    <state width="1122" height="220" key="GridCell.Tab.1.bottom" timestamp="1615562239035">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="220" key="GridCell.Tab.1.bottom/0.25.1280.728@0.25.1280.728" timestamp="1615562239035" />
+    <state width="1122" height="220" key="GridCell.Tab.1.bottom/0.25.1280.729@0.25.1280.729" timestamp="1615474724220" />
+    <state width="1122" height="220" key="GridCell.Tab.1.center" timestamp="1615562239034">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="220" key="GridCell.Tab.1.center/0.25.1280.728@0.25.1280.728" timestamp="1615562239034" />
+    <state width="1122" height="220" key="GridCell.Tab.1.center/0.25.1280.729@0.25.1280.729" timestamp="1615474724219" />
+    <state width="1122" height="220" key="GridCell.Tab.1.left" timestamp="1615562239033">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="220" key="GridCell.Tab.1.left/0.25.1280.728@0.25.1280.728" timestamp="1615562239033" />
+    <state width="1122" height="220" key="GridCell.Tab.1.left/0.25.1280.729@0.25.1280.729" timestamp="1615474724218" />
+    <state width="1122" height="220" key="GridCell.Tab.1.right" timestamp="1615562239035">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state width="1122" height="220" key="GridCell.Tab.1.right/0.25.1280.728@0.25.1280.728" timestamp="1615562239035" />
+    <state width="1122" height="220" key="GridCell.Tab.1.right/0.25.1280.729@0.25.1280.729" timestamp="1615474724219" />
+    <state x="258" y="25" key="SettingsEditor" timestamp="1615119364391">
+      <screen x="0" y="25" width="1280" height="729" />
+    </state>
+    <state x="258" y="25" key="SettingsEditor/0.25.1280.729@0.25.1280.729" timestamp="1615119364391" />
+  </component>
+</project>
