@@ -9,7 +9,7 @@ from Task3.Endpoints import Endpoints
 class Trello:
     USER_ID = "6043bf62cad238312f4b2af4"
     teamMemberName = "Tom"
-    name = 'New Test Board12356'
+    name = 'New Test Board'
     desc = 'Board to test board creation'
 
     # Create board
