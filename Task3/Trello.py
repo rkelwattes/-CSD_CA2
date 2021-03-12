@@ -24,6 +24,9 @@ class Trello:
     Endpoints.addToDoItems(name, teamMemberName)
     # update Item
     Endpoints.updateItem(name, "Key task 1", "complete")
+    Endpoints.updateItem(name, "Key task 2", "complete")
+    Endpoints.updateItem(name, "Additional task 1", "complete")
+    Endpoints.updateItem(name, "Additional task 2", "complete")
 
 
 

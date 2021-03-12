@@ -182,7 +182,6 @@ class Endpoints:
                 break
         response = cls.getCards(idBoard)
         idCard = response.json()[0]['id']
-        print(idCard)
 
         response = cls.getCard(idCard)
         data = response.text
@@ -192,7 +191,7 @@ class Endpoints:
             for j in checkItem:
                 if j['name'] == checkListItemName:
                     idCheckItem = j['id']
-                    print(idCheckItem)
+
         cls.udateCheckListItemStatus(idCard, idCheckItem, "complete")
         response = cls.getCompletedCheckListItems(idCard)
         data = response.text
