@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80166a50-b2f8-4ba1-a35f-48a300257697" name="Default Changelist" comment="" />
+    <list default="true" id="80166a50-b2f8-4ba1-a35f-48a300257697" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/Endpoints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/Trello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CSD_CA2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSD_CA2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,9 +228,17 @@
     </state>
     <state width="1122" height="220" key="GridCell.Tab.1.right/0.25.1280.728@0.25.1280.728" timestamp="1615562239035" />
     <state width="1122" height="220" key="GridCell.Tab.1.right/0.25.1280.729@0.25.1280.729" timestamp="1615474724219" />
+    <state x="286" y="150" key="MultipleFileMergeDialog" timestamp="1615562586454">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state x="286" y="150" key="MultipleFileMergeDialog/0.25.1280.728@0.25.1280.728" timestamp="1615562586454" />
     <state x="258" y="25" key="SettingsEditor" timestamp="1615119364391">
       <screen x="0" y="25" width="1280" height="729" />
     </state>
     <state x="258" y="25" key="SettingsEditor/0.25.1280.729@0.25.1280.729" timestamp="1615119364391" />
+    <state x="248" y="108" key="Vcs.Push.Dialog.v2" timestamp="1615562674375">
+      <screen x="0" y="25" width="1280" height="728" />
+    </state>
+    <state x="248" y="108" key="Vcs.Push.Dialog.v2/0.25.1280.728@0.25.1280.728" timestamp="1615562674375" />
   </component>
 </project>
